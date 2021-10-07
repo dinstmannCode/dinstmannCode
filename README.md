@@ -1,10 +1,10 @@
 ### Hi there I'm Marilia Dinstmann
 
 
-- 👩‍💻 I'm currently working on software development like a front-end developer.
-- 🚀 I'm learning VueJS and C# .Net
-- 💾 This repos is used to me for my jobs and for somethings tests.
-- 💬 Feel free asking me....
+- 👩‍💻 I'm currently working with software development as a front-end developer.
+- 🚀 I'm learning VueJS and C#.NET
+- 💾 this repository is used by me, for work and for some tests.
+- 💬 Feel free to ask me questions
 
 <div align="center">
   <a href="https://github.com/dinstmannCode">
