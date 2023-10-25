@@ -1,8 +1,8 @@
 ### Hi there I'm Marilia Dinstmann
 
 
-- 👩‍💻 I'm currently working with software development as a front-end developer.
-- 🚀 I'm learning VueJS and C#.NET
+- 👩‍💻 I'm currently working with web development as a fullstack developer.
+- 🚀 I'm learning Laravel
 - 💾 this repository is used by me, for work and for some tests.
 - 💬 Feel free to ask me questions
 
